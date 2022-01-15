@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NODE_VERSION=17
+NODE_VERSION=16
 SOLIDITY_VERSION=0.8.11
 
 echo "Building and pushing multi-arch solidity-node container..."
